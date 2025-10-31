@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1j_PU36Xl3Q0csZggCrhkqH6jpes_Uo-5
+  /:
+    url: https://da.live/brobatr/eds-starter-27oct25
+    type: markup
